@@ -3,4 +3,6 @@ Simple Metric/Imperial Unit Converter
 
 ![Screenshot](screenshot.png?raw=true "Screenshot")
 
-- Double clicking into calculated values copies them into clipboard
+- Double clicking of calculated values copies them into clipboard
+- Consists heavily changed DarkUI Library.
+- Written in C# 
